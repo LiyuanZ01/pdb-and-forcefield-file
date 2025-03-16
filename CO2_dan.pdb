@@ -1,0 +1,9 @@
+TITLE     simplized
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   16.490   16.510   18.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  C   COT     1       8.780  12.600 103.010  1.00  0.00            
+ATOM      2  O   COT     1       8.210  12.370 102.030  1.00  0.00            
+ATOM      3  O   COT     1       9.320  12.830 103.990  1.00  0.00            
+TER
+ENDMDL

@@ -1,0 +1,7 @@
+REMARK   Created by AuToFF
+ATOM      1 He01  HE    1      -2.263   0.232   0.000  1.00  0.00          He  
+ATOM      2 He02  HE    1      -1.638   0.134  -0.096  1.00  0.00          He  
+TER
+CONECT    1    2
+CONECT    2    1
+END

@@ -1,0 +1,29 @@
+; Created by AuToFF
+
+[ moleculetype ]
+; name          nrexcl
+LVF       3
+
+[ atoms ]
+;  Index    type       residue  resname    atom      cgnr     charge       mass
+     1    opls_151        1       LVF      Cl01      1      0.378700   35.453000
+     2    opls_151        1       LVF      Cl02      1      0.378700   35.453000
+     3    opls_151        1       LVF      Cl03      1      0.179300   35.453000
+     4    opls_152        1       LVF      C04       1     -0.008600   12.011000
+     5    opls_153        1       LVF      H05       1     -0.928100    1.008000
+
+[ bonds ]
+; atom_i  atom_j  functype     r0 (nm)   k (kJ/mol/nm^2)
+       1       4       1       0.1780    2.050160E+05
+       2       4       1       0.1780    2.050160E+05
+       3       4       1       0.1780    2.050160E+05
+       4       5       1       0.1090    2.845120E+05
+
+[ angles ]
+; atom_i  atom_j  atom_k  functype    a0 (Deg.)  k (kJ/mol/rad^2)
+       1       4       2       1        111.70    6.527040E+02
+       1       4       3       1        111.70    6.527040E+02
+       1       4       5       1        107.60    4.267680E+02
+       2       4       3       1        111.70    6.527040E+02
+       2       4       5       1        107.60    4.267680E+02
+       3       4       5       1        107.60    4.267680E+02

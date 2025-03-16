@@ -1,0 +1,13 @@
+[ moleculetype ]
+; Name   nrexcl
+HE      3
+
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr     charge       mass  typeB    chargeB
+     1         HE       1    HE      HE      1    0          4.0026
+     2         HE       1    HE      HE      1    0          4.0026
+
+[ bonds ]
+; atom_i  atom_j  functype     r0 (nm)   k (kJ/mol/nm^2)
+       1       2       1       0.1700    5.439200E+02
+    

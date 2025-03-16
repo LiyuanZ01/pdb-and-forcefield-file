@@ -1,0 +1,29 @@
+; Created by AuToFF
+
+[ moleculetype ]
+; name          nrexcl
+ELJ       3
+
+[ atoms ]
+;  Index    type       residue  resname    atom      cgnr     charge       mass
+     1    opls_151        1       ELJ      Cl01      1      0.623100   35.453000
+     2    opls_151        1       ELJ      Cl02      1      0.622900   35.453000
+     3    opls_152        1       ELJ      C03       1      0.119100   12.011000
+     4    opls_153        1       ELJ      H04       1     -0.682300    1.008000
+     5    opls_153        1       ELJ      H05       1     -0.682800    1.008000
+
+[ bonds ]
+; atom_i  atom_j  functype     r0 (nm)   k (kJ/mol/nm^2)
+       1       3       1       0.1780    2.050160E+05
+       2       3       1       0.1780    2.050160E+05
+       3       4       1       0.1090    2.845120E+05
+       3       5       1       0.1090    2.845120E+05
+
+[ angles ]
+; atom_i  atom_j  atom_k  functype    a0 (Deg.)  k (kJ/mol/rad^2)
+       1       3       2       1        111.70    6.527040E+02
+       1       3       4       1        107.60    4.267680E+02
+       1       3       5       1        107.60    4.267680E+02
+       2       3       4       1        107.60    4.267680E+02
+       2       3       5       1        107.60    4.267680E+02
+       4       3       5       1        107.80    2.761440E+02

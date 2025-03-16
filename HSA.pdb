@@ -1,0 +1,117 @@
+REMARK   Created by AuToFF
+ATOM      1  O01  HSA    1       7.196  -1.095   0.000  1.00  0.00           O  
+ATOM      2  O02  HSA    1      17.588  -0.095   0.000  1.00  0.00           O  
+ATOM      3  O03  HSA    1      16.722   1.405   0.000  1.00  0.00           O  
+ATOM      4  C04  HSA    1       8.062   0.405   0.000  1.00  0.00           C  
+ATOM      5  C05  HSA    1       7.196  -0.095   0.000  1.00  0.00           C  
+ATOM      6  C06  HSA    1       8.928  -0.095   0.000  1.00  0.00           C  
+ATOM      7  C07  HSA    1       9.794   0.405   0.000  1.00  0.00           C  
+ATOM      8  C08  HSA    1      10.660  -0.095   0.000  1.00  0.00           C  
+ATOM      9  C09  HSA    1       6.330   0.405   0.000  1.00  0.00           C  
+ATOM     10  C0A  HSA    1      11.526   0.405   0.000  1.00  0.00           C  
+ATOM     11  C0B  HSA    1       5.464  -0.095   0.000  1.00  0.00           C  
+ATOM     12  C0C  HSA    1      12.392  -0.095   0.000  1.00  0.00           C  
+ATOM     13  C0D  HSA    1      13.258   0.405   0.000  1.00  0.00           C  
+ATOM     14  C0E  HSA    1       4.598   0.405   0.000  1.00  0.00           C  
+ATOM     15  C0F  HSA    1      14.124  -0.095   0.000  1.00  0.00           C  
+ATOM     16  C10  HSA    1       3.732  -0.095   0.000  1.00  0.00           C  
+ATOM     17  C11  HSA    1      14.990   0.405   0.000  1.00  0.00           C  
+ATOM     18  C12  HSA    1       2.866   0.405   0.000  1.00  0.00           C  
+ATOM     19  C13  HSA    1      15.856  -0.095   0.000  1.00  0.00           C  
+ATOM     20  C14  HSA    1       2.000  -0.095   0.000  1.00  0.00           C  
+ATOM     21  C15  HSA    1      16.722   0.405   0.000  1.00  0.00           C  
+ATOM     22  H16  HSA    1       7.664   0.880   0.000  1.00  0.00           H  
+ATOM     23  H17  HSA    1       8.461   0.880   0.000  1.00  0.00           H  
+ATOM     24  H18  HSA    1       6.659  -0.405   0.000  1.00  0.00           H  
+ATOM     25  H19  HSA    1       8.530  -0.570   0.000  1.00  0.00           H  
+ATOM     26  H1A  HSA    1       9.327  -0.570   0.000  1.00  0.00           H  
+ATOM     27  H1B  HSA    1       9.396   0.880   0.000  1.00  0.00           H  
+ATOM     28  H1C  HSA    1      10.193   0.880   0.000  1.00  0.00           H  
+ATOM     29  H1D  HSA    1      10.262  -0.570   0.000  1.00  0.00           H  
+ATOM     30  H1E  HSA    1      11.059  -0.570   0.000  1.00  0.00           H  
+ATOM     31  H1F  HSA    1       5.932   0.880   0.000  1.00  0.00           H  
+ATOM     32  H20  HSA    1       6.729   0.880   0.000  1.00  0.00           H  
+ATOM     33  H21  HSA    1      11.925   0.880   0.000  1.00  0.00           H  
+ATOM     34  H22  HSA    1      11.128   0.880   0.000  1.00  0.00           H  
+ATOM     35  H23  HSA    1       5.066  -0.570   0.000  1.00  0.00           H  
+ATOM     36  H24  HSA    1       5.863  -0.570   0.000  1.00  0.00           H  
+ATOM     37  H25  HSA    1      11.994  -0.570   0.000  1.00  0.00           H  
+ATOM     38  H26  HSA    1      12.791  -0.570   0.000  1.00  0.00           H  
+ATOM     39  H27  HSA    1      12.860   0.880   0.000  1.00  0.00           H  
+ATOM     40  H28  HSA    1      13.657   0.880   0.000  1.00  0.00           H  
+ATOM     41  H29  HSA    1       4.199   0.880   0.000  1.00  0.00           H  
+ATOM     42  H2A  HSA    1       4.997   0.880   0.000  1.00  0.00           H  
+ATOM     43  H2B  HSA    1      13.726  -0.570   0.000  1.00  0.00           H  
+ATOM     44  H2C  HSA    1      14.523  -0.570   0.000  1.00  0.00           H  
+ATOM     45  H2D  HSA    1       4.131  -0.570   0.000  1.00  0.00           H  
+ATOM     46  H2E  HSA    1       3.333  -0.570   0.000  1.00  0.00           H  
+ATOM     47  H2F  HSA    1      14.592   0.880   0.000  1.00  0.00           H  
+ATOM     48  H30  HSA    1      15.389   0.880   0.000  1.00  0.00           H  
+ATOM     49  H31  HSA    1       2.467   0.880   0.000  1.00  0.00           H  
+ATOM     50  H32  HSA    1       3.265   0.880   0.000  1.00  0.00           H  
+ATOM     51  H33  HSA    1       6.659  -1.405   0.000  1.00  0.00           H  
+ATOM     52  H34  HSA    1      16.255  -0.570   0.000  1.00  0.00           H  
+ATOM     53  H35  HSA    1      15.458  -0.570   0.000  1.00  0.00           H  
+ATOM     54  H36  HSA    1       1.690   0.442   0.000  1.00  0.00           H  
+ATOM     55  H37  HSA    1       1.463  -0.405   0.000  1.00  0.00           H  
+ATOM     56  H38  HSA    1       2.310  -0.632   0.000  1.00  0.00           H  
+ATOM     57  H39  HSA    1      18.125   0.215   0.000  1.00  0.00           H  
+TER
+CONECT    1   51    5
+CONECT    5   24    1    4    9
+CONECT   51    1
+CONECT    2   57   21
+CONECT   21   19    2    3
+CONECT   57    2
+CONECT    3   21
+CONECT    4   23    5    6   22
+CONECT    6   25   26    4    7
+CONECT   22    4
+CONECT   23    4
+CONECT    9   32   11    5   31
+CONECT   24    5
+CONECT    7    8   27   28    6
+CONECT   25    6
+CONECT   26    6
+CONECT    8   10   29   30    7
+CONECT   27    7
+CONECT   28    7
+CONECT   10    8   33   34   12
+CONECT   29    8
+CONECT   30    8
+CONECT   11    9   35   36   14
+CONECT   31    9
+CONECT   32    9
+CONECT   12   10   37   13   38
+CONECT   33   10
+CONECT   34   10
+CONECT   14   16   41   42   11
+CONECT   35   11
+CONECT   36   11
+CONECT   13   40   12   39   15
+CONECT   37   12
+CONECT   38   12
+CONECT   15   17   43   44   13
+CONECT   39   13
+CONECT   40   13
+CONECT   16   46   18   45   14
+CONECT   41   14
+CONECT   42   14
+CONECT   17   48   19   47   15
+CONECT   43   15
+CONECT   44   15
+CONECT   18   16   49   50   20
+CONECT   45   16
+CONECT   46   16
+CONECT   19   17   53   52   21
+CONECT   47   17
+CONECT   48   17
+CONECT   20   56   18   54   55
+CONECT   49   18
+CONECT   50   18
+CONECT   52   19
+CONECT   53   19
+CONECT   54   20
+CONECT   55   20
+CONECT   56   20
+END
