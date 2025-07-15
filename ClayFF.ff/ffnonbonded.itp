@@ -1,0 +1,75 @@
+;; charges are overwritten later in the .itp files 
+
+[ atomtypes ]										
+;;	  name	 at.num	mass	    charge	ptype	sigma	    epsilon												
+;        h*	1	1.0079          0.41	        A	0.000000	0.000000        ; h* water hydrogen
+        ho	1	1.0079          0.425	        A	0.000000	0.000000        ; ho hydroxyl hydrogen
+;        o*	8	15.9994         -0.82	        A	0.316554	0.650194        ; o* water oxygen
+        oh	8	15.9994         -0.95	        A	0.316554	0.650194        ; oh hydroxyl oxygen
+        ob	8	15.9994         -1.05	        A	0.316554	0.650194        ; ob bridging oxygen
+        obos	8	15.9994         -1.1808	        A	0.316554	0.650194        ; obos bridging oxygen with octahedral substitution
+        obts	8	15.9994	        -1.1688	        A	0.316554	0.650194        ; obts bridging oxygen with tetrahedral substitution
+        obss	8	15.9994	        -1.2996	        A	0.316554	0.650194        ; obss bridging oxygen with double substitution
+        ohs	8	15.9994	        -1.0808	        A	0.316554	0.650194        ; ohs hydroxyl oxygen with substitution
+        st	14	28.0855	        2.1	        A	0.330203	7.70065E-06     ; st tetrahedral silicon
+        ao	13	26.981538	1.575	        A	0.427124	5.56388E-06     ; ao octahedral aluminum
+        at	13	26.981538	1.575	        A	0.330203	7.70065E-06     ; at tetrahedral aluminum
+        mgo	12	24.305	        1.36	        A	0.526432	3.77807E-06     ; mgo octahedral magnesium
+        mgh	12	24.305	        1.05	        A	0.526432	3.77807E-06     ; mgh hydroxide magnesium
+        cao	20	40.078	        1.36	        A	0.556669	2.10447E-05     ; cao octahedral calcium
+        cah	20	40.078	        1.05	        A	0.556170	2.10447E-05     ; cah hydroxide calcium
+        feo	26	55.845	        1.575	        A	0.490618	3.77807E-06     ; feo octahedral iron (n.b. epsilon corrected over original publication)
+        lio	3	6.941	        0.525	        A	0.421012	3.77807E-05     ; lio octahedral lithium 
+;IONS
+; Original ion parameters in ClayFF
+;;    name      at.num  mass            charge          ptype   sigma           epsilon                       
+ opls_407   Na+  11  22.98977     1.000       A    3.33045e-01  1.15980e-02
+ opls_408   K+   19  39.09830     1.000       A    4.93463e-01  1.37235e-03
+ opls_401   Cl- 17   35.45300    -1.000       A    4.41724e-01  4.92833e-01
+; SPC/E water   
+;;    name      at.num  mass            charge          ptype   sigma           epsilon                       
+        opls_116   OW	8     15.99940    -0.820       A    3.16557e-01  6.50194e-01
+        opls_117   HW	1      1.00800     0.410       A    0.00000e+00  0.00000e+00
+; EMP2
+C      12.0110       0.000        A    0.2757        0.2338
+O      15.9994       0.000        A    0.3033        0.6691
+; CH4
+opls_135     12.0110     0.000    A    3.50000E-01   2.76144E-01
+opls_146     1.0080      0.000    A    2.50000E-01   1.25520E-01
+; Ganlaogen
+opls_135           12.011000    0.000000     A    3.500000E-01    2.761440E-01
+opls_136           12.011000    0.000000     A    3.500000E-01    2.761440E-01
+opls_141           12.011000    0.000000     A    3.550000E-01    3.179840E-01
+opls_145           12.011000    0.000000     A    3.550000E-01    2.928800E-01
+opls_272           15.999400    0.000000     A    2.960000E-01    8.786400E-01
+opls_147           12.011000    0.000000     A    3.550000E-01    2.928800E-01
+opls_231           12.011000    0.000000     A    3.750000E-01    4.393200E-01
+opls_228           12.011000    0.000000     A    3.550000E-01    2.928800E-01
+opls_543           12.011000    0.000000     A    3.550000E-01    2.928800E-01
+opls_716           12.011000    0.000000     A    3.550000E-01    2.928800E-01
+opls_508           12.011000    0.000000     A    3.550000E-01    2.928800E-01
+opls_542           14.006700    0.000000     A    3.250000E-01    7.112800E-01
+opls_142           12.011000    0.000000     A    3.550000E-01    3.179840E-01
+opls_150           12.011000    0.000000     A    3.550000E-01    3.179840E-01
+opls_178           12.011000    0.000000     A    3.550000E-01    3.179840E-01
+opls_137           12.011000    0.000000     A    3.500000E-01    2.761440E-01
+opls_222           32.060000    0.000000     A    3.550000E-01    1.046000E+00
+opls_210           12.011000    0.000000     A    3.500000E-01    2.761440E-01
+opls_545            1.008000    0.000000     A    0.000000E+00    0.000000E+00
+opls_219           12.011000    0.000000     A    3.500000E-01    2.761440E-01
+opls_154           15.999400    0.000000     A    3.120000E-01    7.112800E-01
+opls_155            1.008000    0.000000     A    0.000000E+00    0.000000E+00
+opls_202           32.060000    0.000000     A    3.600000E-01    1.485320E+00
+opls_140            1.008000    0.000000     A    2.500000E-01    1.255200E-01
+opls_146            1.008000    0.000000     A    2.420000E-01    1.255200E-01
+opls_547            1.008000    0.000000     A    2.420000E-01    1.255200E-01
+opls_546            1.008000    0.000000     A    2.420000E-01    1.255200E-01
+opls_144            1.008000    0.000000     A    2.420000E-01    1.255200E-01
+
+;[ nonbond_params ]
+;  ;;i         j           func       sigma           epsilon
+;   NA    ob      1    0.26339     1.882
+;   NA    obos    1    0.26339     1.882
+;   NA    obts    1    0.26339     1.882
+;   NA    OW      1    0.260838    0.793388
+;   CL    OW      1    0.423867    0.061983
